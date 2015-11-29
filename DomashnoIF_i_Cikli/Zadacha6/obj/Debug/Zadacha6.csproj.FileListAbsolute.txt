@@ -1,0 +1,5 @@
+H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha6\bin\Debug\Zadacha6.exe.config
+H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha6\bin\Debug\Zadacha6.exe
+H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha6\bin\Debug\Zadacha6.pdb
+H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha6\obj\Debug\Zadacha6.exe
+H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha6\obj\Debug\Zadacha6.pdb

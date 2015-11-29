@@ -1,0 +1,6 @@
+H:\Kodove\IntroHomework\Homework_Arrays\All_in_One\bin\Debug\All_in_One.exe.config
+H:\Kodove\IntroHomework\Homework_Arrays\All_in_One\bin\Debug\All_in_One.exe
+H:\Kodove\IntroHomework\Homework_Arrays\All_in_One\bin\Debug\All_in_One.pdb
+H:\Kodove\IntroHomework\Homework_Arrays\All_in_One\obj\Debug\All_in_One.csprojResolveAssemblyReference.cache
+H:\Kodove\IntroHomework\Homework_Arrays\All_in_One\obj\Debug\All_in_One.exe
+H:\Kodove\IntroHomework\Homework_Arrays\All_in_One\obj\Debug\All_in_One.pdb

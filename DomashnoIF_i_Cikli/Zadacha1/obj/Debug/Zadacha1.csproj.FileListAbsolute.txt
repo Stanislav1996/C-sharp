@@ -1,0 +1,6 @@
+H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha1\bin\Debug\Zadacha1.exe.config
+H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha1\bin\Debug\Zadacha1.exe
+H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha1\bin\Debug\Zadacha1.pdb
+H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha1\obj\Debug\Zadacha1.csprojResolveAssemblyReference.cache
+H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha1\obj\Debug\Zadacha1.exe
+H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha1\obj\Debug\Zadacha1.pdb
