@@ -31,6 +31,7 @@ namespace All_in_One
                 Console.WriteLine("8.Zadacha 4 ot domashnoto:Tursene na chislo v masiv   ");
                 Console.WriteLine("9.Zadacha 5 ot domashnoto:Sravnenie na masivi  ");
                 Console.WriteLine("10.Zadacha 6 ot domashnoto:Vertikalno populvane na masiv");
+                Console.WriteLine("11.Zadacha:Podrejdane na masiv");
                 Console.WriteLine("0.EXIT");
                 Console.WriteLine("Vuvedete nomer na zadacha: ");
                 x = int.Parse(Console.ReadLine());
@@ -166,9 +167,47 @@ namespace All_in_One
                     Input_D_array1(first, second, double_array);
                     Output_D_array(double_array);
                 }
+                if (x==11)
+                {
+                    Console.WriteLine("Vuvedete golemina na masiva: ");
+                    first = int.Parse(Console.ReadLine());
+                    second = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Izberete Dali sami da: 1.vuvudete masiva ili 2.random");
+                    int z = int.Parse(Console.ReadLine());
+
+                    double_array = new int[first + 1, second + 1];
+                    Input_D_array(first, second, double_array, z);
+                    Console.WriteLine("Normalniq Masiv: ");
+                    Output_D_array(double_array);
+                    Console.WriteLine();
+           
+                    Max_to_min(first, second, double_array);
+                    Output_D_array(double_array);
+                }
             } while (x!=0);
             Console.WriteLine("Chao");
 
+        }
+
+        private static void Max_to_min(int first, int second, int[,] double_array)
+        {
+            int asd = 0;
+           for (int i = 0; i < double_array.GetLength(0); i++)
+          {
+                for (int j = 0; j < double_array.GetLength(0); j++)
+                {
+                    for (int l = 0; l < double_array.GetLength(1)-1; l++)
+                    {
+
+                       if (double_array[j,l]>double_array[j,l+1])
+                        {
+                            asd = double_array[j, l];
+                            double_array[j, l] = double_array[j, l + 1];
+                            double_array[j, l + 1] = asd;
+                        }
+                    }
+              }
+            }
         }
 
         private static void Sravnenie(int[] array, int[] array1)
