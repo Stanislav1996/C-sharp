@@ -1,5 +1,0 @@
-H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha4\bin\Debug\Zadacha4.exe.config
-H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha4\bin\Debug\Zadacha4.exe
-H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha4\bin\Debug\Zadacha4.pdb
-H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha4\obj\Debug\Zadacha4.exe
-H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha4\obj\Debug\Zadacha4.pdb

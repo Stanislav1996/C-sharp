@@ -1,6 +1,0 @@
-H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha2\bin\Debug\Zadacha2.exe.config
-H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha2\bin\Debug\Zadacha2.exe
-H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha2\bin\Debug\Zadacha2.pdb
-H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha2\obj\Debug\Zadacha2.csprojResolveAssemblyReference.cache
-H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha2\obj\Debug\Zadacha2.exe
-H:\Kodove\IntroHomework\DomashnoIF_i_Cikli\Zadacha2\obj\Debug\Zadacha2.pdb
