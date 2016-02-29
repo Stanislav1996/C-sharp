@@ -16,22 +16,21 @@ namespace Solo_project
 
         protected void button_Click(object sender, EventArgs e)
         {
-            var StudenttoAdd = new Student(
-                this.Nameofstudent.Text,
-                this.Faculty.Text,
-                int.Parse(this.Faculty_number.Text),
-             double.Parse(this.Avenger.Text));
-            if (FileOperations.Addstudenttodatabase(StudenttoAdd))
-            {
+            //var StudenttoAdd = new Student(
+            //    this.Nameofstudent.Text,
+            //    this.Faculty.Text,
+            //    int.Parse(this.Faculty_number.Text),
+            // double.Parse(this.Avenger.Text));
+            //if (FileOperations.Addstudenttodatabase(StudenttoAdd))
+            //{
               
-                this.Nameofstudent.Text = string.Empty;
-                this.Faculty.Text = string.Empty;
-                this.Faculty_number.Text = string.Empty;
-                this.Avenger.Text = string.Empty;
+            //    this.Nameofstudent.Text = string.Empty;
+            //    this.Faculty.Text = string.Empty;
+            //    this.Faculty_number.Text = string.Empty;
+            //    this.Avenger.Text = string.Empty;
             }
            
 
 
         }
     }
-}

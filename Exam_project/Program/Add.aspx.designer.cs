@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Solo_project {
+namespace Program {
     
     
     public partial class Add {
@@ -22,13 +22,13 @@ namespace Solo_project {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// Nameofstudent control.
+        /// Country control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Nameofstudent;
+        protected global::System.Web.UI.WebControls.TextBox Country;
         
         /// <summary>
         /// Capital control.
@@ -56,5 +56,14 @@ namespace Solo_project {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button button;
+        
+        /// <summary>
+        /// messageLabel control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label messageLabel;
     }
 }

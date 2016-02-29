@@ -19,15 +19,12 @@
             <asp:Label Text="Name:" runat="server" />
             <asp:TextBox runat="server" ID="Nameofstudent" />
              <br />
-            <asp:Label Text="Faculty:" runat="server" />
-            <asp:TextBox runat="server" ID="Faculty" /> <br />
-            <asp:Label Text="Faculty Number:" runat="server" />
-            <asp:TextBox runat="server" ID="Faculty_number" />
+            <asp:Label Text="Capital:" runat="server" />
+            <asp:TextBox runat="server" ID="Capital" /> <br />
+            <asp:Label Text="Population:" runat="server" />
+            <asp:TextBox runat="server" ID="Population" />
              <br />
-              <asp:Label Text="Avenger grade:" runat="server" />
-            <asp:TextBox runat="server" ID="Avenger" />
-             <br />
-            <asp:Button Text="Add" runat="server" ID="button" OnClick="button_Click" />
+            <asp:Button Text="Add" runat="server" ID="button"  />
         </div>
     </form>
 </body>
